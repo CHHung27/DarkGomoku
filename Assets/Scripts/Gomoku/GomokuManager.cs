@@ -24,6 +24,12 @@ public class GomokuManager : MonoBehaviour
         // aiPlayer = new AIPlayer(gameSettings.boardSize, currentPlayer, (currentPlayer + 1) % 2);
     }
 
+    // TODO add start game function (calls menu ui)
+    // public void StartGame() 
+    // {
+        
+    // }
+
     void Update()
     {
         if (Input.GetMouseButtonDown(0))

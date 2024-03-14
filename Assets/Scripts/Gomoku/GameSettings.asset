@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7ebc8214b01f4532853da54c6045839, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  boardSize: 10
+  pieceBlackPrefab: {fileID: 3564687850598932954, guid: ca4cc56d8165f41348dbea6c97ee0248, type: 3}
+  pieceWhitePrefab: {fileID: 7343278668877387272, guid: 1304a526eb5224c40b4dac2079b4486a, type: 3}
+  pieceScale: 0.75
+  gameMode: 1

@@ -8,6 +8,7 @@ public class GameSettings : ScriptableObject
     public GameObject pieceWhitePrefab;
     public float pieceScale = 1.0f; // Adjust the scale of pieces
     public GameMode gameMode;
+    public Difficulty difficulty;
 
     public enum GameMode
     {
